@@ -1,1 +1,1 @@
-# ASTAR_pathfinding
+# PathFinding Using A* PathFinding Algorithm
